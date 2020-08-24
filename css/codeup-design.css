@@ -65,3 +65,13 @@ a:hover {
     text-decoration: none;
     color: #00ABA9;
 }
+
+.test {
+    height: 105px;
+    width: 105px;
+    background-color: cadetblue;
+    border: 10px solid white;
+    border-radius: 52px;
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
