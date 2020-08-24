@@ -1,4 +1,9 @@
 
+.logo {
+    height: 105px;
+    width: 105px;
+}
+
 .header-font {
     font-family: 'Anton', sans-serif;
 }
