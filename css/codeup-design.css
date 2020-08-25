@@ -33,11 +33,11 @@ p {
 }
 
 .custom-orange {
-    background-color: #EB9D3A;
+    background-color: #E6563B;
 }
 
 .custom-yellow {
-    background-color: #DEA03D;
+    background-color: #EB9D3A;
 }
 
 .custom-green {
@@ -69,7 +69,6 @@ a:hover {
 .circles {
     height: 105px;
     width: 105px;
-    background-color: cadetblue;
     border: 10px solid white;
     border-radius: 52px;
     color: white;
