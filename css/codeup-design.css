@@ -1,4 +1,7 @@
-
+body, html {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 .logo {
     border: none;
     height: 105px;
