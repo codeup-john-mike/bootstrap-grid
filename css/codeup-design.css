@@ -74,10 +74,10 @@ a:hover {
 }
 
 .circles {
-    height: 105px;
-    width: 105px;
+    min-height: 105px;
+    min-width: 105px;
     border: 10px solid white;
-    border-radius: 52px;
+    border-radius: 50%;
     color: white;
     margin: 5px;
     font-family: 'Anton', sans-serif;
